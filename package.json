@@ -10,7 +10,10 @@
   "description": "",
   "dependencies": {
     "cluster": "^0.7.7",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
     "express": "^4.19.2",
+    "express-session": "^1.18.0",
     "os": "^0.1.2"
   }
 }
